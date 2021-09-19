@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+
+header {
+    margin: auto;
+    width: 100%;
+    background-color: rgb(175, 238, 238);
+    height: 100px;
+    display: flex;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(186, 85, 211);
+    padding: 10px;
+    height: 100px;
+    display: flex;
+}
+
+.box {
+    margin: auto;
+    padding-right: 40%;
+}
+
+.avatar {
+    margin-left: 25%;
+}
+
+.nav {
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(255, 222, 173);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    margin-bottom: 20px;
+    max-width: 960px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(255, 222, 173);
+    margin-top: 20px;
+}
+
+.form {
+    max-width: 960px;
+    background-color: rgb(255, 222, 173);
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.table {
+    max-width: 960px;
+    background-color: rgb(255, 222, 173);
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.list1 {
+    font-size: 20px;
+    padding: 0 80px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.chet {
+    background-color: #E9967A;
+}
+
+.nechet {
+    background-color: #BC8F8F;
+}
+
+.name {
+    margin: auto;
+    font-size: 24px;
+}
